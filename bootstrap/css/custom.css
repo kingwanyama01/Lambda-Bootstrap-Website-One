@@ -1,0 +1,78 @@
+.sectionone{
+    background-image: url("../../resources/body_bg.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.topdiv{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.homeh3, .homeh1{
+    padding-bottom: 50px;
+}
+.homeh1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.homeh3{
+    font-family: monospace;
+}
+
+.x{
+    padding-left: 20px;
+}
+
+.abouth1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 30px;
+}
+
+.myparagraph{
+    font-style: italic;
+    font-family: monospace;
+    padding-left: 40%;
+}
+
+.myimage{
+    width: 100%;
+    height: 30vh;
+}
+
+
+.myparagraphtwo{
+    font-style: italic;
+    font-family: monospace;
+    padding-right: 40%;
+}
+
+.myspan{
+    margin-left: 49.8%;
+    margin-right: 49.8%;
+    height: 20vh;
+    border-right: 2px solid #e8e8e8;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.aboutsection{
+    padding-bottom: 50px;
+}
+
+.contactsection{
+    background-color: #818181;
+    height: 100vh;
+    padding-top: 70px;
+}
+
+.mycontactparagraph{
+    font-style: italic;
+    font-family: monospace;
+    padding-bottom: 70px;
+}
